@@ -1,0 +1,53 @@
+# Tri-Reagent/Direct-zol RNA Isolation Protocol
+
+This protocol has been refined for use of RNA extraction from field collected whole avian blood samples preserved in RNAlater or DNA/RNA Shield buffers which were then stored in a -80 °C freezer. 
+## Before starting:
+- Clean work area
+- Gather all supplies
+- Set centrifuge to 4C 
+- Wipe tools with RNase
+- Grab cold bead bucket
+- Aliquot required amount of 1-Bromo-3-chloropropane, 100ul per sample. Hold on ice
+ 
+### Supplies: 
+- Bucket of ice or cold beads
+- Tri-Reagent: 1ml per sample
+- 1-Bromo-3-chloropropane: 100ul per sample
+- RNA free tubes 1.7 or 2.0 for Tri-Reagent phase sep., final elution and quality control aliquots
+- Direct-zol RNA Miniprep Plus contents (Zymo)
+- 3-5mm steel beads (clean with RNAase and then with Isopropanol, let air dry on kim wipes). tissuelyzer or other homogenizer 
+- RNAase away
+- 100% Ethanol
+
+### Disposal guidelines:
+- Tri-Reagent and 1-Bromo-3-chloropropane are hazardous and must not go in the trash or down the drain. 
+- Directzol RNA Pre wash buffer is hazardous and must not go in trash. 
+- Pour all such waste into appropriate “biohazard container”.
+
+#### (I) Sample Preparation
+1A. For Tissue:
+	- Homogenize tissue samples in TRI Reagent (1 ml per 50–100 mg of tissue) in appropriate homogenizer or use steel bead and vortex till desired homogenization is reached. 
+1B. For blood:
+	- For blood stored in RNALater: Take up 30-100 ul of the blood/RNALater mix. A higher volume (if available) will give greater RNA yields and will aid in downstream cDNA library construction. Centrifuge your 30-100 ul aliquot for 1 min at 5,000 x g or 8,000 rcf. This will lightly pellet the blood and allow you to remove a significant proportion of the RNALater. You can leave some RNALater behind (it is ok for some to carry over) to homogenize the blood cell pellet and ease pipetting this mixture. I would not leave more than ~20 ul RNALater.
+	- Dispense the pelleted and concentrated blood/RNALater mix directly into 500 ul Trizol in a 1.7 ml tube along with a sterile steel bead, close tube cap, and immediately vortex for 30 seconds. Add remaining 500 ul Trizol.
+	- Vortex to mix for 30 seconds, then homogenize or use side or other attachment to vortex at room temperature for 10 minutes.
+2. Continue for tissue or blood:
+	- Add 100 ul cold 1-Bromo-3-chloropropane (or 200ul chloroform), shake vigorously for 20 seconds, then incubate at room temperature 10-15 minutes. 
+	- On the cold centrifuge spin at 2C for 30-60 minutes at 12,000 x g (or max speed).
+	- Check phase separation: 50-60% of the volume should be clear aqueous phase. If separation is poor, add 100ul additional 1-Bromo-3-chloropropane (or 200ul chloroform) and repeat shake-incubate-spin step. Centrifugation separates the mixture into 3 phases: a red organic phase (containing protein), an interphase (containing DNA), and a colorless upper aqueous phase (containing RNA). 
+	- Carefully collect up to 500ul of the aqueous phase, making sure not to disturb interphase or lower phase, and place in clean tube. The remaining volume can be stored in the -80 for later processing of DNA.
+
+#### (II) RNA Purification
+All centrifugation steps should be performed at 10,000-16,000 x g for 30 seconds.  
+Aliquot enough DNase/RNase-Free Water into a microcentrifuge tube and heat at 56 degrees for elution step. 
+1. Add an equal volume ethanol (95-100%) to aqueous phase collected (500ul). 
+2. Transfer the mixture into a Zymo-Spin IIICG Column in a Collection Tube and centrifuge. Transfer the column into a new collection tube and discard the flow-through. 
+3. Recommended: DNase I treatment (in-column)3 
+	(3a)  Add 400 μl RNA Wash Buffer to the column and centrifuge. 
+	(3b)  In an RNase-free tube, add 5 μl DNase I (6 U/μl)*, 75 μl DNA Digestion Buffer and mix. Add the mix 
+directly to the column matrix. 
+	(3c)  Incubate at room temperature (20-30°C) for 15 minutes. Proceed to step 4. 
+4. Add 400 μl Direct-zol RNA PreWash to the column and centrifuge. Discard the flow-through and repeat this step. 
+5. Add 700 μl RNA Wash Buffer to the column and centrifuge for 2 minutes to ensure complete removal of the wash buffer. Transfer the column carefully into an RNase-free tube. 
+6. To elute RNA, add 100 or 50 μl (for highly concentrated RNA) of DNase/RNase-Free Water directly to the column matrix and centrifuge.
+7. Aliquot 2.5 ul of RNA for quantitation into strip tubes. Use 1 ul for Qubit, 1 ul for Bioanalyzer, with the remaining 0.5 to account for pipetting error. Store RNA in -80. 
