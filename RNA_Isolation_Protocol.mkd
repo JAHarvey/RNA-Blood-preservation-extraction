@@ -13,7 +13,7 @@ This protocol has been refined for use of RNA extraction from field collected wh
 ### Supplies: 
 - Bucket of ice or cold beads
 - Tri Reagent: 1ml per sample (Tri Reagent and Trizol are interchangeable, except that 1-Bromo-3-chloropropane or Chloroform may be used with Tri Reagent while only Chloroform is compatible with Trizol. Chloroform is more toxic and volatile then 1-Bromo-3-chloropropane)
-- 1-Bromo-3-chloropropane as the phase seperation agent: 100 ul per sample
+- 1-Bromo-3-chloropropane as the phase seperation agent: 100 ul per sample (Chloroform if used is 200 ul per sample)
 - RNA free tubes 1.7 or 2.0 ml for Tri-Reagent phase seperation (for final elution and quality control aliquots)
 - Direct-zol RNA Miniprep Plus contents (Zymo Research, Irvine, CA, USA, Cat# R2070 or R2071 supplied with Tri-Reagent)
 - 3-5 mm steel beads (clean with RNAase and then with Isopropanol, let air dry on kim wipes), or tissuelyzer or other power homogenizer
