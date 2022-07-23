@@ -6,7 +6,7 @@ This protocol has been refined for use of RNA extraction from field collected wh
 - Clean work area
 - Gather all supplies
 - Set centrifuge to 4°C 
-- Wipe tools with RNase
+- Wipe tools, equipment, and fume hood work space with RNase Away/ RNase Zap or similar product
 - Grab cold bead bucket
 - Aliquot required amount of 1-Bromo-3-chloropropane (100 μl per sample and hold on ice)
  
