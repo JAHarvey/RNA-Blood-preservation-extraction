@@ -30,8 +30,9 @@ This protocol has been refined for use of RNA extraction from field collected wh
 	- For blood stored in RNALater or DNA/RNA Shield preservatives: Take up 30-100 μl of the blood/RNA preservative. A higher volume (if available) will give greater RNA yields and will aid in downstream cDNA library construction. Centrifuge your 30-100 μl aliquot for 1 min at 5,000 - 8,000 x g. This will lightly pellet the blood and allow you to remove a significant proportion of the RNALater. You may leave some RNALater behind (it is ok for some to carry over) to homogenize the blood cell pellet and ease pipetting this mixture. It is not recommended to leave more than ~20 μl RNA preservative.
 	- Dispense the pelleted and concentrated blood/RNALater mix directly into 500 μl Tri-Reagent in a 1.7 ml tube along with a sterile steel bead, close tube cap, and immediately vortex for 30 seconds. Add remaining 500 μl Tri-Reagent.
 	- Vortex to mix for 30 seconds, then homogenize or use side or other attachment to vortex at room temperature for 10 minutes.
-	- 
+
 Below Phase separtion steps adapted from Tri Reagent Protocol https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/protein-lysis-and-extraction/tri-reagent
+
 2. Phase Separation:
 	- Add 100 μl cold 1-Bromo-3-chloropropane (or 200 μl chloroform), shake vigorously for 20 seconds, then incubate at room temperature 10-15 minutes. 
 	- On the cold centrifuge spin at 4°C  for 30-60 minutes at 12,000 x g (or max speed).
@@ -39,6 +40,7 @@ Below Phase separtion steps adapted from Tri Reagent Protocol https://www.sigmaa
 	- Carefully collect up to 500 μl of the aqueous phase, making sure not to disturb interphase or lower organic phase, and place in clean tube. 
  
 Below taken from Zymo Directzol Miniprep Protocol Page # 7 https://files.zymoresearch.com/protocols/_r2070t_r2070_r2071_r2072_r2073_direct-zol_rna_miniprep_plus_kit.pdf 
+
 #### RNA Purification
 All centrifugation steps should be performed at 10,000-16,000 x g for 30 seconds unless specified otherwise.  
 1. Add an equal volume ethanol (95-100%) to aqueous phase collected (500ul). 
