@@ -28,7 +28,7 @@ This protocol has been refined for use of RNA extraction from field collected wh
 
 #### (I) Sample Preparation
 1. For blood:
-	- For blood stored in RNALater or DNA/RNA Shield: Take up 30-100 μl of the blood/RNA preservative. A higher volume (if available) will give greater RNA yields and will aid in downstream cDNA library construction. Centrifuge your 30-100 μl aliquot for 1 min at 5,000 x g or 8,000 rcf. This will lightly pellet the blood and allow you to remove a significant proportion of the RNALater. You can leave some RNALater behind (it is ok for some to carry over) to homogenize the blood cell pellet and ease pipetting this mixture. I would not leave more than ~20 μl RNALater.
+	- For blood stored in RNALater or DNA/RNA Shield: Take up 30-100 μl of the blood/RNA preservative. A higher volume (if available) will give greater RNA yields and will aid in downstream cDNA library construction. Centrifuge your 30-100 μl aliquot for 1 min at 5,000 - 8,000 x g. This will lightly pellet the blood and allow you to remove a significant proportion of the RNALater. You can leave some RNALater behind (it is ok for some to carry over) to homogenize the blood cell pellet and ease pipetting this mixture. I would not leave more than ~20 μl RNALater.
 	- Dispense the pelleted and concentrated blood/RNALater mix directly into 500 μl Tri-Reagent in a 1.7 ml tube along with a sterile steel bead, close tube cap, and immediately vortex for 30 seconds. Add remaining 500 μl Tri-Reagent.
 	- Vortex to mix for 30 seconds, then homogenize or use side or other attachment to vortex at room temperature for 10 minutes.
 2. Continue for tissue or blood:
@@ -37,11 +37,11 @@ This protocol has been refined for use of RNA extraction from field collected wh
 	- Check phase separation: 50-60% of the volume should be clear aqueous phase. If separation is poor, add 100 μl additional 1-Bromo-3-chloropropane (or 200 μl chloroform) and repeat shake-incubate-spin step. Centrifugation separates the mixture into 3 phases:  a colorless upper aqueous phase containing total RNA. The DNA and proteins remain in the interphase or lower organic phase.
 	- Carefully collect up to 500 μl of the aqueous phase, making sure not to disturb interphase or lower organic phase, and place in clean tube. 
 
+Below taken from Zymo Directzol Miniprep Protocol: 
 #### (II) RNA Purification
-All centrifugation steps should be performed at 10,000-16,000 x g for 30 seconds.  
-Aliquot enough DNase/RNase-Free Water into a microcentrifuge tube and heat at 56 degrees for elution step. 
+All centrifugation steps should be performed at 10,000-16,000 x g for 30 seconds unless specified otherwise.  
 1. Add an equal volume ethanol (95-100%) to aqueous phase collected (500ul). 
-2. Transfer the mixture into a Zymo-Spin IIICG Column in a Collection Tube and centrifuge. Transfer the column into a new collection tube and discard the flow-through. 
+2. Transfer the mixture into a Zymo-Spin IIICG Column in a collection ube and centrifuge. Transfer the column into a new collection tube and discard the flow-through. 
 3. Recommended: DNase I treatment (in-column)3 
 	(3a)  Add 400 μl RNA Wash Buffer to the column and centrifuge. 
 	(3b)  In an RNase-free tube, add 5 μl DNase I (6 U/μl)*, 75 μl DNA Digestion Buffer and mix. Add the mix 
