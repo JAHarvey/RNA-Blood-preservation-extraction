@@ -5,9 +5,9 @@ This protocol has been refined for use of RNA extraction from field collected wh
 ## Before starting:
 - Clean work area
 - Gather all supplies
-- Set centrifuge to 4°C 
-- Wipe tools, equipment, and fume hood work space with RNase Away/ RNase Zap or similar product
-- Grab cold bead bucket
+- Set centrifuge to 4 °C 
+- Wipe tools, equipment, and fume hood work space with RNase Away or similar product
+- Grab cold bead/ice bucket
 - Aliquot required amount of 1-Bromo-3-chloropropane (100 μl per sample and hold on ice)
  
 ### Supplies: 
@@ -16,8 +16,8 @@ This protocol has been refined for use of RNA extraction from field collected wh
 - 1-Bromo-3-chloropropane as the phase separation agent: 100 ul per sample (Chloroform if used is 200 ul per sample)
 - RNA free tubes 1.7 or 2.0 ml for Tri-Reagent phase seperation (for final elution and quality control aliquots)
 - Direct-zol RNA Miniprep Plus contents (Zymo Research, Irvine, CA, USA, Cat# R2070 or R2071 supplied with Tri-Reagent)
-- 3-5 mm steel beads (clean with RNAase and then with Isopropanol, let air dry on kim wipes), or tissuelyzer or other power homogenizer
-- RNAase away
+- 3-5 mm steel beads (autoclave and clean with RNase Away) or power homogenizer
+- RNAase Away or similar product
 - 100% Ethanol
 - Access to a fume hood, Tri Reagent and 1-Bromo-3-chloropropane should be handeled in a fume hood 
 
@@ -31,7 +31,8 @@ This protocol has been refined for use of RNA extraction from field collected wh
 	- Dispense the pelleted and concentrated blood/RNALater mix directly into 500 μl Tri-Reagent in a 1.7 ml tube along with a sterile steel bead, close tube cap, and immediately vortex for 30 seconds. Add remaining 500 μl Tri-Reagent.
 	- Vortex to mix for 30 seconds, then homogenize or use side or other attachment to vortex at room temperature for 10 minutes.
 
-Below Phase separtion steps adapted from Tri Reagent Protocol https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/protein-lysis-and-extraction/tri-reagent
+Below Phase separtion steps adapted from Tri Reagent Protocol
+https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2F9738M_D.pdf
 
 2. Phase Separation:
 	- Add 100 μl cold 1-Bromo-3-chloropropane (or 200 μl chloroform), shake vigorously for 20 seconds, then incubate at room temperature 10-15 minutes. 
